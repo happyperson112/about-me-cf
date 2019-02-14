@@ -1,0 +1,21 @@
+body {
+  font-family: palatino;
+  background-color:  #a2bbe8;
+}
+
+h2 {
+  font-size: 35px;
+  color: #a74fff;
+}
+
+h4 {
+  font-size: 27px;
+  font-weight: 700;
+  color: ;
+}
+
+p {
+font-size: 23px;
+  font-weight: 500;
+  color: #6a00ff
+}
